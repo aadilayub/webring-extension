@@ -10,7 +10,7 @@
  
   "browser_action": {
   	"browser_style": true,
-    "default_icon": "icons/icon-white.svg",
+    "default_icon": "icons/icon-black.svg",
     "theme_icons": [{
     	"light": "icons/icon-white.svg",
     	"dark": "icons/icon-black.svg",
