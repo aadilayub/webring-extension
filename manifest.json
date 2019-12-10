@@ -1,5 +1,4 @@
 {
-
   "description": "Surf the Merveilles webring from your browser toolbar!",
   "manifest_version": 2,
   "name": "webring",
@@ -10,10 +9,12 @@
   },
  
   "browser_action": {
-    "default_icon": {
-      "16": "icons/icon-black.svg",
-      "32": "icons/icon-black.svg"
-    }
+  	"browser_style": true,
+    "default_icon": "icons/icon-white.svg",
+    "theme_icons": [{
+    	"light": "icons/icon-white.svg",
+    	"dark": "icons/icon-black.svg",
+    	"size": 32
+    }]
   }
-
 }
