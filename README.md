@@ -1,4 +1,4 @@
-#webring-extension
+# Merveilles Webring Surfer
 
 ![A screenshot of firefox navigating to a random page on the merveilles webring; the merveilles webring icon can be seenin the toolbar](screenshot.png)
 
