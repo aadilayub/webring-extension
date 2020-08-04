@@ -122,7 +122,7 @@ const sites = [
   'https://dampfkraft.com',
   'https://travisshears.com',
   'https://futuristan.io',
-  'https://www.yctct.com/'
+  'https://www.romainaubert.com/'
 ]
 
 function surf() {
