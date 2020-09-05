@@ -33,7 +33,6 @@ const sites = [
   'http://bildwissenschaft.vortok.info',
   'https://jakofranko.github.com',
   'https://aeriform.io',
-  'http://blog.lucasdidthis.com',
   'http://npisanti.com',
   'https://underscorediscovery.ca',
   'https://drisc.io',
