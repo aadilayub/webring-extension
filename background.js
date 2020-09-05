@@ -125,7 +125,7 @@ const sites = [
 	'https://fdisk.space',
 	'https://now.lectronice.com',
 	'https://matildepark.ca',
-	'https://awalvie.me,
+	'https://awalvie.me',
 	'https://nor.the-rn.info',
 	'https://nchrs.xyz',
 	'https://ix5.org',
