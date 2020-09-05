@@ -10,7 +10,6 @@ const sites = [
   'https://xvw.github.io',
   'https://heracl.es',
   'https://turelio.github.io',
-  'https://shards.lectronice.com',
   'https://craze.co.uk',
   'https://shaneckel.com',
   'https://cblgh.org',
@@ -85,8 +84,8 @@ const sites = [
   'https://cass.si',
   'https://dotcomboom.somnolescent.net/',
   'https://cadmican.neocities.org/',
-  'https://jskjott.com',
   'https://sixey.es/',
+	'https://resevoir.net',
   'https://tilde.town/~dustin/',
   'http://www.jameschip.io',
   'https://patrick-is.cool',
@@ -103,7 +102,7 @@ const sites = [
   'https://natwelch.com',
   'https://parkimminent.com',
   'https://aklsh.github.io',
-  'https://paulglushak.com',
+  'https://0xff.nu',
   'https://simone.computer',
   'https://xj9.io',
   'https://simply.personal.jenett.org',
@@ -122,7 +121,16 @@ const sites = [
   'https://dampfkraft.com',
   'https://travisshears.com',
   'https://futuristan.io',
-  'https://www.romainaubert.com/'
+  'https://www.romainaubert.com/',
+	'https://fdisk.space',
+	'https://now.lectronice.com',
+	'https://matildepark.ca',
+	'https://awalvie.me,
+	'https://nor.the-rn.info',
+	'https://nchrs.xyz',
+	'https://ix5.org',
+	'https://juliendesrosiers.com',
+	
 ]
 
 function surf() {
