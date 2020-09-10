@@ -129,7 +129,7 @@ const sites = [
 	'https://nchrs.xyz',
 	'https://ix5.org',
 	'https://juliendesrosiers.com',
-	
+  'https://inqlab.net'	
 ]
 
 function surf() {
