@@ -3,7 +3,7 @@ const sites = [
   'https://electro.pizza',
   'https://avanier.now.sh',
   'https://kaemura.com',
-  'https://liamcooke.com',
+  'https://bismuth.garden',
   'https://hraew.autophagy.io',
   'http://evenunto.net',
   'https://anxl.faith',
@@ -121,15 +121,17 @@ const sites = [
   'https://travisshears.com',
   'https://futuristan.io',
   'https://www.romainaubert.com/',
-	'https://fdisk.space',
-	'https://now.lectronice.com',
-	'https://matildepark.ca',
-	'https://awalvie.me',
-	'https://nor.the-rn.info',
-	'https://nchrs.xyz',
-	'https://ix5.org',
-	'https://juliendesrosiers.com',
-  'https://inqlab.net'	
+  'https://fdisk.space',
+  'https://now.lectronice.com',
+  'https://matildepark.ca',
+  'https://awalvie.me',
+  'https://nor.the-rn.info',
+  'https://nchrs.xyz',
+  'https://ix5.org',
+  'https://juliendesrosiers.com',
+  'https://inqlab.net',
+  'https://deianeira.co',
+  
 ]
 
 function surf() {
