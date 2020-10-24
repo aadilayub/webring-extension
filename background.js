@@ -131,7 +131,9 @@ const sites = [
   'https://juliendesrosiers.com',
   'https://inqlab.net',
   'https://deianeira.co',
-  
+  'https://metasny.pw',
+  'https://mxmarin.ca',
+  'https://abstractxan.cyz'
 ]
 
 function surf() {
