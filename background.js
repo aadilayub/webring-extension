@@ -106,7 +106,6 @@ const sites = [
   'https://xj9.io',
   'https://simply.personal.jenett.org',
   'http://q.pfiffer.org/',
-  'https://ashpex.neocities.org',
   'https://zvava.org',
   'https://amorphic.space',
   'https://www.edwinwenink.xyz',
@@ -133,7 +132,14 @@ const sites = [
   'https://deianeira.co',
   'https://metasny.pw',
   'https://mxmarin.ca',
-  'https://abstractxan.cyz'
+  'https://abstractxan.cyz',
+  'https://milofultz.com',
+  'https://thomasorus.com',
+  'https://notebook.wesleyac.com',
+  'https://notes.neeasade.net',
+  'https://stecko.website',
+  'https://irimi.one',
+  'https://wolfmd.me'
 ]
 
 function surf() {
