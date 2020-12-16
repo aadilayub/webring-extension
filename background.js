@@ -145,7 +145,8 @@ const sites = [
   'https://hecanjog.com',
   'https://fragmentscenario.com',
   'https://mineralexistence.com',
-  'https://aless.co'
+  'https://aless.co',
+  'https://weakty.com'
 ]
 
 function surf() {
