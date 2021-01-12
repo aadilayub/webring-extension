@@ -148,7 +148,8 @@ const sites = [
   'https://fragmentscenario.com',
   'https://mineralexistence.com',
   'https://aless.co',
-  'https://weakty.com'
+  'https://weakty.com',
+  'https://everest-pipkin.com'
 ]
 
 function surf() {
