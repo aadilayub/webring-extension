@@ -5,7 +5,6 @@ const sites = [
   'https://kaemura.com',
   'https://bismuth.garden',
   'https://hraew.autophagy.io',
-  'http://evenunto.net',
   'https://anxl.faith',
   'https://xvw.github.io',
   'https://heracl.es',
