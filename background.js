@@ -149,6 +149,9 @@ const sites = [
   'https://aless.co',
   'https://weakty.com',
   'https://everest-pipkin.com'
+  'https://hugo.soucy.cc',
+  'https://natehn.com',
+  'https://darch.dk'
 ]
 
 function surf() {
