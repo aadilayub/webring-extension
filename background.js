@@ -148,7 +148,7 @@ const sites = [
   'https://mineralexistence.com',
   'https://aless.co',
   'https://weakty.com',
-  'https://everest-pipkin.com'
+  'https://everest-pipkin.com',
   'https://hugo.soucy.cc',
   'https://natehn.com',
   'https://darch.dk',
