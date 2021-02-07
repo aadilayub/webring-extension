@@ -151,7 +151,8 @@ const sites = [
   'https://everest-pipkin.com'
   'https://hugo.soucy.cc',
   'https://natehn.com',
-  'https://darch.dk'
+  'https://darch.dk',
+  'https://pbat.ch'
 ]
 
 function surf() {
