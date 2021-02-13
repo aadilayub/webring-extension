@@ -152,7 +152,8 @@ const sites = [
   'https://hugo.soucy.cc',
   'https://natehn.com',
   'https://darch.dk',
-  'https://pbat.ch'
+  'https://pbat.ch',
+  'https://dom.ink'
 ]
 
 function surf() {
