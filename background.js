@@ -153,7 +153,8 @@ const sites = [
   'https://natehn.com',
   'https://darch.dk',
   'https://pbat.ch',
-  'https://dom.ink'
+  'https://dom.ink',
+  'https://njoqi.me'
 ]
 
 function surf() {
