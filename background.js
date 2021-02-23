@@ -85,7 +85,7 @@ const sites = [
   'https://dotcomboom.somnolescent.net/',
   'https://cadmican.neocities.org/',
   'https://sixey.es/',
-	'https://resevoir.net',
+  'https://resevoir.net',
   'https://tilde.town/~dustin/',
   'http://www.jameschip.io',
   'https://patrick-is.cool',
