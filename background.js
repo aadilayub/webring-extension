@@ -154,7 +154,7 @@ const sites = [
   'https://darch.dk',
   'https://pbat.ch',
   'https://dom.ink',
-  'https://njoqi.me'
+  'https://njoqi.me',
   'https://eric.jetzt'
 ]
 
