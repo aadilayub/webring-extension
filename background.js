@@ -155,6 +155,7 @@ const sites = [
   'https://pbat.ch',
   'https://dom.ink',
   'https://njoqi.me'
+  'https://eric.jetzt'
 ]
 
 function surf() {
