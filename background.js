@@ -59,7 +59,7 @@ const sites = [
   'https://xinniw.github.io',
   'https://mboxed.github.io/sodatsu',
   'https://letters.vexingworkshop.com',
-  'https://tom.org.nz',
+  'https://tom.so',
   'https://teknari.com',
   'https://colectivo-de-livecoders.gitlab.io',
   'https://www.madewithtea.com',
@@ -155,7 +155,8 @@ const sites = [
   'https://pbat.ch',
   'https://dom.ink',
   'https://njoqi.me',
-  'https://eric.jetzt'
+  'https://eric.jetzt',
+  'https://gr0k.net'
 ]
 
 function surf() {
