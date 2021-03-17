@@ -156,7 +156,8 @@ const sites = [
   'https://dom.ink',
   'https://njoqi.me',
   'https://eric.jetzt',
-  'https://gr0k.net'
+  'https://gr0k.net',
+  'https://clarity.flowers'
 ]
 
 function surf() {
