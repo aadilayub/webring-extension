@@ -157,7 +157,8 @@ const sites = [
   'https://njoqi.me',
   'https://eric.jetzt',
   'https://gr0k.net',
-  'https://clarity.flowers'
+  'https://clarity.flowers',
+  'https://マリウス.com'
 ]
 
 function surf() {
