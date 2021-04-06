@@ -160,7 +160,8 @@ const sites = [
   'https://clarity.flowers',
   'https://マリウス.com',
   'https://sirtetris.com',
-  'https://rodrigofranco.com'
+  'https://rodrigofranco.com',
+  'https://oppen.digital'
 ]
 
 function surf() {
