@@ -92,7 +92,7 @@ const sites = [
   'https://icyphox.sh',
   'https://royniang.com',
   'https://www.raul.earth/',
-  'https://crlf.site',
+  'https://crlf.link',
   'https://www.johannesg.com',
   'https://provokeanalog.com',
   'https://eti.tf',
@@ -161,7 +161,10 @@ const sites = [
   'https://マリウス.com',
   'https://sirtetris.com',
   'https://rodrigofranco.com',
-  'https://oppen.digital'
+  'https://oppen.digital',
+  'https://nilfm.cc',
+  'https://badd10de.dev',
+  'https://itwont.work'
 ]
 
 function surf() {
