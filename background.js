@@ -164,7 +164,8 @@ const sites = [
   'https://oppen.digital',
   'https://nilfm.cc',
   'https://badd10de.dev',
-  'https://itwont.work'
+  'https://itwont.work',
+  'https://voidjumper.glass'
 ]
 
 function surf() {
