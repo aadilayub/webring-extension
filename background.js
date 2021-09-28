@@ -164,7 +164,7 @@ const sites = [
   'https://nilfm.cc',
   'https://badd10de.dev',
   'https://itwont.work',
-  'https://voidjumper.glass'
+  'https://voidjumper.glass',
   'https://ynhck.xyz',
   'https://astrid.tech',
   'https://wilde-at-heart/garden',
