@@ -45,7 +45,7 @@ const sites = [
   'https://chad.is',
   'https://smidgeo.com/bots',
   'https://iko.soy',
-  'http://atelieroilandsugar.com',
+  'http://ritualdust.com',
   'https://magoz.is',
   'https://szymonkaliski.com',
   'https://phse.net',
@@ -83,7 +83,7 @@ const sites = [
   'https://fundor333.com/',
   'https://cass.si',
   'https://dotcomboom.somnolescent.net/',
-  'https://cadmican.neocities.org/',
+  'https://mdbenning.neocities.org/',
   'https://sixey.es/',
   'https://resevoir.net',
   'https://tilde.town/~dustin/',
@@ -158,7 +158,6 @@ const sites = [
   'https://eric.jetzt',
   'https://gr0k.net',
   'https://clarity.flowers',
-  'https://マリウス.com',
   'https://sirtetris.com',
   'https://rodrigofranco.com',
   'https://oppen.digital',
@@ -166,6 +165,12 @@ const sites = [
   'https://badd10de.dev',
   'https://itwont.work',
   'https://voidjumper.glass'
+  'https://ynhck.xyz',
+  'https://astrid.tech',
+  'https://wilde-at-heart/garden',
+  'https://dyslexic.ink',
+  'https://embyr.sh',
+  'https://maxhaesslein.de'
 ]
 
 function surf() {
