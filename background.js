@@ -170,7 +170,8 @@ const sites = [
   'https://wilde-at-heart/garden',
   'https://dyslexic.ink',
   'https://embyr.sh',
-  'https://maxhaesslein.de'
+  'https://maxhaesslein.de',
+  'https://noelle.dev'
 ]
 
 function surf() {
